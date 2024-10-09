@@ -44,3 +44,8 @@
 1. There are still some outliers available in the dataset., even after removing majority of the outliers.
 1. This shows that the data is skewed, however, the majority of the outliers are removed
 
+
+
+![image](https://github.com/user-attachments/assets/f83ad30a-1a7d-40f0-92ad-0f92ee93db7c)
+
+
