@@ -15,7 +15,6 @@
 1. DETERGENTS_PAPER: annual spending (m.u.) on detergents and paper products (Continuous)
 1. DELICATESSEN: annual spending (m.u.)on and delicatessen products (Continuous);
 1. CHANNEL: customersâ€™ Channel - Horeca (Hotel/Restaurant/CafÃ©) or Retail channel (Nominal)
-1. REGION: customersâ€™ Region â€“ Lisnon, Oporto or Other (Nominal)
 
 ### REGION Frequency
 1. Lisbon 77
